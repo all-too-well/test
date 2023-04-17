@@ -1,0 +1,63 @@
+ul{
+    font-size: 20px;
+}
+h2{
+    font-size:30px;
+}
+
+h3{
+    font-size: 20px;
+}
+    
+h4{
+    font-size:20px;
+    font-weight:200;
+    font-style: italic;
+}
+
+h1{
+    text-align: center;
+}
+
+h5{
+    font-size:15px;
+    text-align: center;
+    font-weight:500
+}
+
+body{
+    border-style:groove;
+    border-color: black;
+    border-width: 10px;
+    margin:20px;
+    padding:20px;
+  
+    }
+
+.ResumeTab{
+    font-size:30px;
+    text-align:right;
+}
+
+.PondTab{
+    font-size:30px;
+    text-align:center;
+}
+
+a:hover {
+    background-color: rgb(212, 212, 205);
+
+}
+/*
+div.PondTab{
+    text-align:right;
+}
+
+ div.ResumeTab{
+    text-align:right;
+}
+*/
+.buttons{
+    text-align:right;
+}
+
